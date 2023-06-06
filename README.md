@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Beydi Beer</h1>
+<h1 align="center">Hi👋, I'm Beydi Beer</h1>
 <h3 align="center">A passionate full stack developer from Belgium</h3>
 
 <p align="center">Software Engineer @100DEVS || 📫 How to reach me **beidi.beer@gmail.com**<p>
