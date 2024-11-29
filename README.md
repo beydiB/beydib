@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Beydi Beer</h1>
-<h3 align="center">A passionate full stack developer from Belgium</h3>
+<h3 align="center">A passionate full stack developer and designer</h3>
 
 <p align="center">Full-Stack Developer @100DEVS || 📫 You can reach me at beidi.beer@gmail.com <p>
 
